@@ -26,7 +26,7 @@ Go to [releases](https://github.com/Overhault-Experiences/Eco-Executor/releases)
 Insert the rbxmx file into the game and 'save it as local plugin'. There should be a toolbar in the plugins tab (click to config the Eco Executor)
 
 ## Warning⚠️
-Running in an unpublished game will make some executor functions unstable.
+Running in an unpublished game will make some executor functions non-functional/un-useable.
 
 # Credits🔷
  - [SQLanguage - xAPI](https://github.com/3skue/xAPI4/) - For executor functions
