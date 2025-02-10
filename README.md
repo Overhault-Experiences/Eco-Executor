@@ -24,7 +24,7 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 ## Installation📥
 Go to [releases](https://github.com/Overhault-Experiences/Eco-Executor/releases) and download the rbxmx file in the latest release.
 Insert the rbxmx file into the game and 'save it as local plugin'. There should be a toolbar in the plugins tab (click to config the Eco Executor)
-Make sure that in the security settings (game settings at security section) and enable the Enable Studio Access to API Services and Enable Http requests.
+Make sure that in the security settings (game settings at security section) the Enable Studio Access to API Services and Enable Http requests has been enabled, otherwise some functions may not work!
 
 ## Warning⚠️
 Running in an unpublished game will make some executor functions non-functional/un-useable.
