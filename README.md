@@ -24,6 +24,7 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 ## Installation📥
 Go to [releases](https://github.com/Overhault-Experiences/Eco-Executor/releases) and download the rbxmx file in the latest release.
 Insert the rbxmx file into the game and 'save it as local plugin'. There should be a toolbar in the plugins tab (click to config the Eco Executor)
+Make sure that in the security settings (game settings at security section) and enable the Enable Studio Access to API Services and Enable Http requests.
 
 ## Warning⚠️
 Running in an unpublished game will make some executor functions non-functional/un-useable.
@@ -31,4 +32,4 @@ Running in an unpublished game will make some executor functions non-functional/
 # Credits🔷
  - [SQLanguage - xAPI](https://github.com/3skue/xAPI4/) - For executor functions
  - [HeyWhatsHisFace - Converter Module](https://devforum.roblox.com/t/converter-module-instance-%E2%86%94-table-save-instances-to-datastores-and-more/1820480) -- For saveinstance() support
- - The syntax highlighter is not mine, but I don't remember who created it! :( (also it has been modified to make it work with the executor)
+ - [NiceBuild1 - Syntax Highlighter](https://devforum.roblox.com/t/realtime-richtext-lua-syntax-highlighting/2500399?u=experience_member) -- For real time syntax highlighting (also it has been modified)
