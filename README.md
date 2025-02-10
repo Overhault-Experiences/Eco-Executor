@@ -27,7 +27,7 @@ Insert the rbxmx file into the game and 'save it as local plugin'. There should 
 Make sure that in the security settings (game settings at security section) the Enable Studio Access to API Services and Enable Http requests has been enabled, otherwise some functions may not work!
 
 ## Warning⚠️
-Running in an unpublished game will make some executor functions non-functional/un-useable.
+Running in an unpublished game will make some executor functions non-functional/unusable.
 
 # Credits🔷
  - [SQLanguage - xAPI](https://github.com/3skue/xAPI4/) - For executor functions
