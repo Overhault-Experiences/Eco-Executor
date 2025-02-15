@@ -22,7 +22,6 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 - Eco Executor Documentation (unfinished)
 ![Screenshot 2025-02-08 142510](https://github.com/user-attachments/assets/ec3c2426-61ed-4254-a3b8-c8e40fb18360)
 
-
 ## Installation📥
 Go to [releases](https://github.com/Overhault-Experiences/Eco-Executor/releases) and download the rbxmx file in the latest release.
 Insert the rbxmx file into the game and 'save it as local plugin'. There should be a toolbar in the plugins tab (click to config the Eco Executor)
@@ -30,6 +29,12 @@ Make sure that in the security settings (game settings at security section) the 
 
 ## Warning⚠️
 Running in an unpublished game will make some executor functions non-functional/unusable.
+
+## Additional Infoℹ️
+### Comment directives
+`--!noSyntaxCheck`: (Eco Executor's script editor) No error highlights
+`--!nameFile FileName`: (Save to FileStore) Useful to save a script named properly to file store
+`--!overwriteFile FileName`: (Save to FileStore) Useful in overwriting an already saved script in file store (so you don't need to delete it and save it again)
 
 # Credits🔷
  - [SQLanguage - xAPI](https://github.com/3skue/xAPI4/) - For executor functions
