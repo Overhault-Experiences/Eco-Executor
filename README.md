@@ -32,9 +32,9 @@ Running in an unpublished game will make some executor functions non-functional/
 
 ## Additional Infoℹ️
 ### Comment directives
-`--!noSyntaxCheck`: (Eco Executor's script editor) No error highlights
-`--!nameFile FileName`: (Save to FileStore) Useful to save a script named properly to file store
-`--!overwriteFile FileName`: (Save to FileStore) Useful in overwriting an already saved script in file store (so you don't need to delete it and save it again)
+ - `--!noSyntaxCheck`: (Eco Executor's script editor) No error highlights
+ - `--!nameFile FileName`: (Save to FileStore) Useful to save a script named properly to file store
+ - `--!overwriteFile FileName`: (Save to FileStore) Useful in overwriting an already saved script in file store (so you don't need to delete it and save it again)
 
 # Credits🔷
  - [SQLanguage - xAPI](https://github.com/3skue/xAPI4/) - For executor functions
