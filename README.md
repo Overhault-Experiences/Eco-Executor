@@ -15,6 +15,8 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 ![Screenshot 2025-02-08 142558](https://github.com/user-attachments/assets/fdc61f76-7a62-4a23-bae9-ceab2f1b37ba)
  - File System
 ![Screenshot 2025-02-08 142117](https://github.com/user-attachments/assets/57ddef28-e00a-4438-9e52-569b266060d4)
+ - File Store
+![Screenshot 2025-02-15 115032](https://github.com/user-attachments/assets/406926e6-86b5-4909-bcd8-714bd657a011)
  - Custom Console for Eco Executor
 ![Screenshot 2025-02-08 142349](https://github.com/user-attachments/assets/4a7c906d-d7df-418b-a74d-71522ab37f95)
 - Eco Executor Documentation (unfinished)
