@@ -7,7 +7,7 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 ![Screenshot 2025-02-08 141832](https://github.com/user-attachments/assets/470db849-a2c2-46fc-80b9-4f6b8dfb0740)
  - Client Sided Execution
 ![Screenshot 2025-02-08 141911](https://github.com/user-attachments/assets/f190bb58-f4f4-4f1a-b0a6-06cafa2cb8af)
-- Configurable Execution
+- Configurable Execution (Client| Studio)
  ![Screenshot 2025-03-01 062326](https://github.com/user-attachments/assets/e6001d4b-4ff4-4241-84da-d8486baac9ea)
  - Script Tab Support
 ![Screenshot 2025-02-08 142006](https://github.com/user-attachments/assets/6b1798c4-23d0-46d7-9528-b64b8ff612fe)
