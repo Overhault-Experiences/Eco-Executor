@@ -21,8 +21,6 @@ Also, the executor uses an API called eAPI (a xAPI but it has been modified to f
 ![Screenshot 2025-02-15 115032](https://github.com/user-attachments/assets/406926e6-86b5-4909-bcd8-714bd657a011)
  - Custom Console for Eco Executor
 ![Screenshot 2025-02-08 142349](https://github.com/user-attachments/assets/4a7c906d-d7df-418b-a74d-71522ab37f95)
-- Eco Executor Documentation (unfinished)
-![Screenshot 2025-02-08 142510](https://github.com/user-attachments/assets/ec3c2426-61ed-4254-a3b8-c8e40fb18360)
 
 ## Installation📥
 Go to [releases](https://github.com/Overhault-Experiences/Eco-Executor/releases) and download the rbxmx file in the latest release.
